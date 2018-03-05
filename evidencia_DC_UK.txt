@@ -1,0 +1,6 @@
+NAME                              READY     STATUS    RESTARTS   AGE       IP          NODE      DC
+nginx-exercitio-768cff6c7-7fmt2   1/1       Running   0          41s       10.36.0.7   docker3   UK
+nginx-exercitio-768cff6c7-cpnrc   1/1       Running   0          41s       10.36.0.4   docker3   UK
+nginx-exercitio-768cff6c7-ft4v6   1/1       Running   0          41s       10.36.0.3   docker3   UK
+nginx-exercitio-768cff6c7-khj72   1/1       Running   0          41s       10.36.0.2   docker3   UK
+nginx-exercitio-768cff6c7-qmgqk   1/1       Running   0          41s       10.36.0.6   docker3   UK
